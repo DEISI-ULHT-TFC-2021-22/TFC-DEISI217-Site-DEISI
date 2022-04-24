@@ -1,0 +1,38 @@
+@use '../../src/variables';
+
+.card {
+	.profile {
+		display: flex;
+		flex-direction: column;
+		width: 250px;
+		height: 300px;
+		align-items: center;
+
+		.image-container {
+			width: 200px;
+			height: 207px;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+
+			img {
+				width: 170px;
+				transition: all 300ms ease-out;
+			}
+		}
+		
+		.user-button {
+			margin-top: 20px;
+			width: 170px;
+		}
+
+		.info {
+			width: 170px;
+			height: 207px;
+			text-align: start;
+			font-size: 14px;
+			display: none;
+			transition: all 300ms ease-out;
+		}
+	}
+}
