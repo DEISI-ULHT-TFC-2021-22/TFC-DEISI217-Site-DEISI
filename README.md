@@ -10,7 +10,7 @@ Dado que que o Website DEISI é constituído por duas aplicações independentes
 
 **deisi_backend:** https://github.com/borisdvlpr/deisi_backend
 
-**Vídeo YouTube** https://www.youtube.com/watch?v=XQmIfjrJJbE
+**Vídeo YouTube** https://youtu.be/1EctmhZAYg8
 
 
 
